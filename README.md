@@ -28,7 +28,8 @@
 - Bean Validation (Jakarta Validation) – Validação de dados via anotações;
 - API – Integração com API externa para dados e validações;
 - RestExceptionHandler com anotação como @ControllerAdvice para excessões personalizadas;
-- Biblioteca SLF4J (Simple Logging Facade for Java) - Logs.
+- Biblioteca SLF4J (Simple Logging Facade for Java) - Logs;
+- Redis - Banco de dados NoSQL, em memória, extremamente rápido.
 
 
 ## 💱 Suporte a Múltiplas Moedas (Multiwallet)
